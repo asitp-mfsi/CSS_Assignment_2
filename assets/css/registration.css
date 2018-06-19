@@ -33,7 +33,12 @@ header
   box-shadow: 2px 2px red;
 }
 #btn{
-	height:50px;width:100px;text-align:center;display:block;margin-left:auto;margin-right:auto;
+	height:50px;
+	width:100px;
+	text-align:center;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
 }
 #btn:hover
 {
@@ -57,7 +62,6 @@ footer
 }
 #regform
 {
-	/*background-image:url("../images/background1.jpg");*/
 	background-size: cover;
 	background-position:fixed;
 	background-attachment:fixed;
